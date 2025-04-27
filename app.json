@@ -1,0 +1,34 @@
+{
+  "expo": {
+    "name": "Wallet",
+    "slug": "galaxiesFire",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/img/wallet.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/img/wallet.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/img/wallet.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.ainaroxane.galaxiesFire"
+    },
+    "web": {
+      "favicon": "./assets/img/wallet.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "d62d9a9b-eb7b-41d4-82f5-5172d09272bd"
+      }
+    }
+  }
+}
